@@ -52,6 +52,9 @@ Tables can be either referred to by the named Theme or by individual feature cla
 * column names for projected attribution must be defined in the catalogue tables. In S-100 terms the definition stems from the feature catalogue defined for the relevant product specification.
 * Inline geometry column names are fixed as "geo"
 
+## Dataset Names
+* There's a column in each feature class/theme table called "dname". This is the name of the source dataset from which the features come. The names are all listed in the metadata. This allows, e.g. for multiple ENC cells to be included and for features to be included within a group1 theme (SKin Of The Earth) or an AtoN (Aids to Navigation) theme within the single package.
+
 ## Geometry and topology
 Two forms of geometric representation are allowed corresponding to those defined in IHO S-100. For inline geometry it is sufficient to use WKT representation equivalents of the geometry defined by S-100. For those product specifications supporting topology a separate column "topo" is defined in the feature (or theme) table. the topo column contains a comma separated list of individual topology elements and directions. The detail of each element is defined in the following section.
 
