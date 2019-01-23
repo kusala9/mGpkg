@@ -1,4 +1,5 @@
 # Documentation Index
 
+* [What Are We Doing?](./whatarewedoing.md)
 * [How Are We Doing It?](./howarewedoingit.md)
-* Read more [here](./README_2.md)
+* [Root](../README_2.md)
