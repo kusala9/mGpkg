@@ -1,5 +1,7 @@
 ## Metadata List
-These are items which are created by the geopackaging process....
+These are items which are created by the geopackaging process.... Needs to have a fieldname for each one, simple/complex and an optional explanation/comment.
+
+JSON? Any suggestions?
 
 Suggestions:
 * Conformance Level - The level of comprehensiveness of the geopackaging.
