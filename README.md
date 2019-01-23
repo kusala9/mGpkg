@@ -7,6 +7,11 @@ To encode, initially, vector ENC data within a geopackage container for use outs
 
 ENC data formats are described by the IHO http://www.iho.int/ - these also describe the disctionary of features, encoding and validation rules for data for use in primary navigation. 
 
+The Detail:
+* [What Are We Doing?](./whatarewedoing.md)
+* [How Are We Doing It?](./howarewedoingit.md)
+* [Root](/README.md)
+
 ## Top Level Marine Geopackage Aims
 * Encoding of ENC vector data into geopackage
 * Drop-In data solution for FOSS4G solutions like QGIS and GeoServer
