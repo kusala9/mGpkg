@@ -73,8 +73,8 @@ Because of the importance of bathymetric data within marine geospatial product s
 ## Metadata
 We Need to represent the metadata within the ENC (or ENCs) in as complete and flexible way as possible and also represent the metadata introduced by the geopackage packaging process too. 
 
-[List of metadata items geopackage creates](metadata_gpkg.md)
-[List of metadata items from ENC to include](metadata_enc.md)
+* [List of metadata items geopackage creates](metadata_gpkg.md)
+* [List of metadata items from ENC to include](metadata_enc.md)
 
 
 ## Auxiliary file representations.
