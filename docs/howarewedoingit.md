@@ -1,6 +1,6 @@
 # Proposed layout for vector ENC data - S-57 and S-101
 ## Feature Class Layout
-My feeling on marine geopackage is to package it thus:
+Packaging features within ENC data - We should aim to be as flexible as possible, so allowing for either complete ENCs or just groups or individual classes of data to be encoded (metadata should make this clear). My feeling on marine geopackage is, therefore, to package it thus:
 
 Most broader uses of marine vector geospatial data (mostly ENC) tend to group by theme. We should therefore support both a grouping of individual feature classes within a single table as well as tables dedicated to single feature classes. The name of the table represents the theme/feature and a column within the table holds the feature class name.
 
@@ -71,9 +71,11 @@ Because of the importance of bathymetric data within marine geospatial product s
 ## Feature and Attribution Catalogues
 
 ## Metadata
-* M_COVR
-* other meta features
-* CSCL
+We Need to represent the metadata within the ENC (or ENCs) in as complete and flexible way as possible and also represent the metadata introduced by the geopackage packaging process too. 
+
+[List of metadata items geopackage creates](metadata_gpkg.md)
+[List of metadata items from ENC to include](metadata_enc.md)
+
 
 ## Auxiliary file representations.
 
