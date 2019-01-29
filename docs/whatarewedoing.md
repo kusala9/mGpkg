@@ -1,3 +1,10 @@
+## Main Objectives
+* The ability to package marine geospatial data within a geopackage container to enhance interoperability with broader GI tooling and assist broader uses of marine data.
+* Primarily ENC but extending over time to general S-100 vector and raster products
+* A sliding scale of compliance ranging from basic data for interchange/distribution to fully populated, catalogued, attributed, toplogically sound data with embedded portrayal.
+* The ability to produce marine geospatial themes within geopackage to assist interoperability with other, broader marine domains
+
+
 ## Aims and objectives...
 * Multi level profile for encoding with some kind of compliance level. 
 * Raster or vector data packaging – the prime use case for raster in marine processing is for bathymetry but other raster products are being proposed. 
