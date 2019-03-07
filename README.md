@@ -10,8 +10,7 @@ ENC data formats are described by the IHO http://www.iho.int/ - these also descr
 ## what's New
 * New test dataset uploaded. This is a US ENC with a few object selections in it and some embedded symbology.
 
-##The Detail:
-
+## The Detail
 * [What Are We Doing?](docs/whatarewedoing.md)
 * [How Are We Doing It?](docs/howarewedoingit.md)
 * [Root](/README.md)
