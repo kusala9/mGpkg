@@ -7,7 +7,11 @@ To encode, initially, vector ENC data within a geopackage container for use outs
 
 ENC data formats are described by the IHO http://www.iho.int/ - these also describe the disctionary of features, encoding and validation rules for data for use in primary navigation. 
 
-The Detail:
+## what's New
+* New test dataset uploaded. This is a US ENC with a few object selections in it and some embedded symbology.
+
+##The Detail:
+
 * [What Are We Doing?](docs/whatarewedoing.md)
 * [How Are We Doing It?](docs/howarewedoingit.md)
 * [Root](/README.md)
@@ -20,8 +24,6 @@ The Detail:
 * Comprehensive Metadata
 * Complete inclusion of all ENC content
 * Themed feature class groupings, e.g. SKin of the Earth, AtoN, Topology
-
-
 
 ## what's geopackage? 
 
